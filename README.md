@@ -1,1 +1,1 @@
-# QGSS23-Lab
+# Qiskit Global Summer School 2023 Lab Task
